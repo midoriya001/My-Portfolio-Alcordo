@@ -1,3 +1,3 @@
 # My-Portfolio-Alcordo
 
-https://github.com/midoriya001/My-Portfolio-Alcordo.git
+https://midoriya001.github.io/my-portfolio-alcordo-/
